@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @2001yasmin abdelaal
 - 👀 I’m interested in programming and design
 - 🌱 I’m currently learning computer engineering..
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me jasmineabdelal691@gmail.com
 
 <!---
